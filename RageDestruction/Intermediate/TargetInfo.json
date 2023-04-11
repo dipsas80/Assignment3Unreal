@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RageDestruction",
+			"Path": "D:\\Github\\Assignment3Unreal\\RageDestruction\\Source\\RageDestruction.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RageDestructionEditor",
+			"Path": "D:\\Github\\Assignment3Unreal\\RageDestruction\\Source\\RageDestructionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
