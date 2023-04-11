@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RageDestruction.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\RageDestructionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\RageDestruction.cpp.obj"
+"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\RageSteal.cpp.obj"
+"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\RageDestruction.init.gen.cpp.obj"
+"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\RageSteal.gen.cpp.obj"
+"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\Default.rc2.res"
+/OUT:"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\UnrealEditor-RageDestruction.lib"

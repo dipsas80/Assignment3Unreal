@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\assignment3unreal\\ragedestruction\\source\\ragedestruction\\pickupactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\assignment3unreal\\ragedestruction\\intermediate\\build\\win64\\ragedestructioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\assignment3unreal\\ragedestruction\\intermediate\\build\\win64\\unrealeditor\\development\\ragedestruction\\definitions.ragedestruction.h",
+            "d:\\github\\assignment3unreal\\ragedestruction\\source\\ragedestruction\\pickupactor.h",
+            "d:\\github\\assignment3unreal\\ragedestruction\\intermediate\\build\\win64\\unrealeditor\\inc\\ragedestruction\\pickupactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
