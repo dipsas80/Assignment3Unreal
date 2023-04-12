@@ -268,11 +268,11 @@ D:\Github\Assignment3Unreal\RageDestruction\Source\RageDestruction\RageDestructi
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /FI"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\RageDestructionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /FI"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\UnrealEditor\Development\RageDestruction\Definitions.RageDestruction.h"
 /Yu"D:\Github\Assignment3Unreal\RageDestruction\Intermediate\Build\Win64\RageDestructionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"

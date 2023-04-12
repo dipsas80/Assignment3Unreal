@@ -32,12 +32,6 @@
     <Filter Include="Source\RageDestruction">
       <UniqueIdentifier>{8103E46F-C2CD-3BCA-B4A8-C49F546662F1}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\RageDestruction\PickUpActor.cpp">
-      <Filter>Source\RageDestruction</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\RageDestruction\PickUpActor.h">
-      <Filter>Source\RageDestruction</Filter>
-    </ClInclude>
     <None Include="..\..\Source\RageDestruction\RageDestruction.Build.cs">
       <Filter>Source\RageDestruction</Filter>
     </None>
@@ -51,6 +45,12 @@
       <Filter>Source\RageDestruction</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\RageDestruction\RageSteal.h">
+      <Filter>Source\RageDestruction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RageDestruction\Spawner.cpp">
+      <Filter>Source\RageDestruction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RageDestruction\Spawner.h">
       <Filter>Source\RageDestruction</Filter>
     </ClInclude>
   </ItemGroup>
